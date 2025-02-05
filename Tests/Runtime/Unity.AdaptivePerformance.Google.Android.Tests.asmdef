@@ -1,0 +1,14 @@
+{
+    "name": "GiantArmy.AdaptivePerformance.iOS.Tests",
+    "references": [
+        "GiantArmy.AdaptivePerformance.iOS"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

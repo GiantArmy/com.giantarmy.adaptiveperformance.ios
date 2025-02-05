@@ -1,0 +1,10 @@
+{
+  "name": "com.giantarmy.adaptiveperformance.ios",
+  "displayName": "Adaptive Performance iOS",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "The Adaptive Performance iOS package provides the Adaptive Performance subsystem for iOS platforms and works in combination with Adaptive Performance.",
+  "dependencies": {
+    "com.unity.adaptiveperformance": "5.1.0"
+  }
+}
